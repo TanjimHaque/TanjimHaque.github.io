@@ -1,0 +1,47 @@
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  color: #111;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.intro h1 {
+  font-size: 2.5rem;
+}
+
+.intro span {
+  color: #D32F2F;
+  font-weight: bold;
+}
+
+blockquote {
+  font-style: italic;
+  margin-top: 1rem;
+}
+
+section {
+  padding: 2rem 1rem;
+}
+
+.container img {
+  display: block;
+  max-width: 100%;
+  margin: 1rem auto;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+footer {
+  background-color: #212529;
+  color: #fff;
+  padding: 2rem 1rem;
+}
+
+footer button {
+  margin-top: 1rem;
+}
